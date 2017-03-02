@@ -6,7 +6,7 @@ This challenge is provided to help assess a candidate's development skills. Ther
 
 1. Complete the challenge according to the Challenge Instructions below.
 1. Deploy your code on the internets so we can see it in action.
-1. Post your solution in a Github repo. Be sure to include a README.
+1. Post your solution in a Github repo. Be sure to include a README to explain and document your solution.
 1. Send a link to your solution to challenge-accepted@salido.com.
 
 
